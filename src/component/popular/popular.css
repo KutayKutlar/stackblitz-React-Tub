@@ -1,0 +1,73 @@
+.text-gray{
+    color: #828282;
+   }
+   .text-darkgray {
+       color: #545454;
+   
+   }
+   .blacknumber
+   {
+       color: #FFF;
+   font-family: Inter;
+   font-size: 8px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal; 
+   }
+   .Popular
+{
+  color: #555;
+
+/* Page Title */
+font-family: 'Inter';
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+letter-spacing: -1.2px;
+}
+.blacknumber{
+  
+  border-radius: 3px;
+  background: #000;
+
+width: 24px;
+height: 16px;
+padding: 4px;
+gap: 10px;
+vertical-align: 2px;
+
+}
+.İmgcurve {
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px 0px rgb(0, 0, 0,0.1);
+}
+.movtitle{
+  color: #545454;
+/* h5/bold */
+font-family: 'Inter';
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%; /* 24px */ 
+padding-top: 20px;
+
+
+}
+.movsubtitle{
+  padding-top: 14px;
+  color: #828282;
+  font-family: 'Inter';
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  
+}
+.movsubtext{
+  color: #828282;
+font-family: 'Inter';
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal; 
+}

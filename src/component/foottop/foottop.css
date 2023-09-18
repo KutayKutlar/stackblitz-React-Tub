@@ -1,0 +1,57 @@
+.text-gray{
+    color: #828282;
+   }
+   .text-darkgray {
+       color: #545454;
+   
+   }
+   .blacknumber
+   {
+       color: #FFF;
+   font-family: Inter;
+   font-size: 8px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal; 
+   }
+   
+  .foottop{
+    
+   padding-top: 36px;
+   padding-bottom: 46px;
+  
+  
+  
+  }
+  
+  
+  .foottitle{
+   display: flex;
+   justify-content:end ;
+      color: #FFF;
+      padding-bottom: 22px;
+      
+      /* h5/bold */
+      font-family: Inter;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 120%; /* 24px */ 
+  }
+  .foottext{
+    display: flex;
+    color: #FFF;
+    
+    justify-content: end;
+    
+    /* body/regular */
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 24px */
+  }
+  .footimg{
+    display: flex;
+    justify-content: end;
+  }

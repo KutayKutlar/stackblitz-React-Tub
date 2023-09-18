@@ -1,0 +1,94 @@
+@media (min-width: 768px) {
+    .prebox {
+      width: 50%; /* Half width on larger screens (columns) */
+    }
+  }
+.prebox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+
+
+width: 1076px;
+justify-content: space-around;
+
+}
+.prebut {
+  
+padding: 6px 12px;
+gap: 10px;
+border:none;
+font:inherit;
+
+
+background: #02B2E3;
+border-radius: 3px;
+
+   
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 26px;
+color: #fff;
+
+
+
+}
+
+.tmbdtext{
+    
+        font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+   
+    color: #B8B8B8;
+        
+
+
+}
+.premil{
+   
+   
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 120%;
+    
+    color: #424242;
+    
+        
+
+}
+.presmalltxt{
+   
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 120%;
+
+color: #545454  ;
+
+}
+.text-gray{
+    color: #828282;
+   }
+   .text-darkgray {
+       color: #545454;
+   
+   }
+   .blacknumber
+   {
+       color: #FFF;
+   font-family: Inter;
+   font-size: 8px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal; 
+   }

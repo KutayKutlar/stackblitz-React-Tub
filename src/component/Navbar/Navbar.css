@@ -1,0 +1,67 @@
+
+.navbar-brand{
+    padding-right: 70px;
+    color: #000;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal; 
+  }
+  .btn
+  {
+    font-weight: 600;
+  }
+  body {
+     
+    font-family: 'Inter';
+  }
+  
+  
+  .fazla{
+    background-color:#0000001A ;
+    
+  }
+ 
+  .username{
+   
+    padding-left: 10px;
+    color: #000;
+    text-align: right;
+    font-family:'Inter' ;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+   
+  
+  }
+  .userjob{
+  /* FrontEnd Developer */
+  
+  
+  
+  color: #000;
+  text-align: right;
+  font-family: 'Inter';
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 300;
+  
+  
+  }
+  .text-gray{
+    color: #828282;
+   }
+   .text-darkgray {
+       color: #545454;
+   
+   }
+   .blacknumber
+   {
+       color: #FFF;
+   font-family: Inter;
+   font-size: 8px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal; 
+   }
